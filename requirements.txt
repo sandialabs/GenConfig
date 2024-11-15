@@ -1,0 +1,7 @@
+# Unit Testing Requirements
+pytest
+pytest-cov
+
+# Private Repositories
+loadenv @ git+ssh://git@github.com/sandialabs/LoadEnv.git@master#egg=loadenv
+setprogramoptions @ git+ssh://git@github.com/sandialabs/SetProgramOptions.git@master#egg=setprogramoptions
